@@ -18,3 +18,7 @@ Además sumamos modificaciones relacionadas al feedback del sprint 1:
 - Corregimos el responsive de la barra de navegación... todavía queda "un" "detalle" a mejorar...
 - Para que registrarse sea visible desde el home, lo sumamos como parte del on boarding. También implementamos el cruce para tener la opción de loguearse desde el registro y viceversa.
 - Corregimos el responsive en el formulario de login.
+
+SPRINT 4: pendiente
+Work in progress OOP
+
